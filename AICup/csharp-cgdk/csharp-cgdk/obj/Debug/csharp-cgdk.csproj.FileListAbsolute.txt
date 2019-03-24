@@ -1,0 +1,7 @@
+C:\Users\Йоши\Desktop\AICup\csharp-cgdk\csharp-cgdk\bin\Debug\csharp-cgdk.exe.config
+C:\Users\Йоши\Desktop\AICup\csharp-cgdk\csharp-cgdk\bin\Debug\csharp-cgdk.exe
+C:\Users\Йоши\Desktop\AICup\csharp-cgdk\csharp-cgdk\bin\Debug\csharp-cgdk.pdb
+C:\Users\Йоши\Desktop\AICup\csharp-cgdk\csharp-cgdk\obj\Debug\csharp-cgdk.csprojResolveAssemblyReference.cache
+C:\Users\Йоши\Desktop\AICup\csharp-cgdk\csharp-cgdk\obj\Debug\csharp-cgdk.csproj.CoreCompileInputs.cache
+C:\Users\Йоши\Desktop\AICup\csharp-cgdk\csharp-cgdk\obj\Debug\csharp-cgdk.exe
+C:\Users\Йоши\Desktop\AICup\csharp-cgdk\csharp-cgdk\obj\Debug\csharp-cgdk.pdb
